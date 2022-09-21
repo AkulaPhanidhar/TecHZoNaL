@@ -1,0 +1,13 @@
+.Navbar {
+    height: 70px;
+    width: 100vw;
+    background-color: #55BDCA;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Tech {
+    font-weight: bold;
+    font-size: xx-large;
+}
